@@ -1,7 +1,7 @@
 testcases for the string calculator
 
 1. testcase:
-   "" => 0
+   "" => 0 // in progress
 
 2. testcase:
    "1" => 1
